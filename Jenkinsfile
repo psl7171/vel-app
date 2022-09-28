@@ -17,7 +17,7 @@ pipeline {
 				
 				        steps {
 						
-						      \\sh "yum install httpd -y"
+						      // sh "yum install httpd -y"
 						
 						
 						}
