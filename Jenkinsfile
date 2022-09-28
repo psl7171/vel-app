@@ -13,7 +13,7 @@ pipeline {
 		  
 		  stages {
 		  
-		      //  stage('install-apache') {
+		        stage('install-apache') {
 				
 				        steps {
 						
